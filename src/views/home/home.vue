@@ -1,7 +1,7 @@
 <template>
     <div class="home_box">
         <div class="aside">
-            <div class="logo-title">智慧社区管理平台</div>
+            <div class="logo-title">社区管理平台</div>
             <home-aside></home-aside>
         </div>
         <el-container>
