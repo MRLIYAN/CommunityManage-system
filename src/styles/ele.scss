@@ -1,0 +1,41 @@
+/* element styles */
+.el-menu--popup {
+  .el-menu-item {
+    color: rgba(255, 255, 255, .75);
+    &:hover {
+      color: rgba(255, 255, 255, 1);
+    }
+  }
+}
+
+.el-form-item--small .el-form-item__content{
+  width: 160px;
+}
+
+// .el-message-box__title{
+//   span{
+//     color:#2764DA ;
+//   }
+// }
+
+// .el-message-box__message{
+//    padding: 0 30px;
+//    font-size: 16px;
+//   font-family: PingFang SC;
+//   color: #787A80;
+//   text-align: center;
+// }
+
+// .el-message-box__btns{
+//   display: flex;
+//   margin-top: 20px;
+//   justify-content: center;
+//   margin-bottom: 20px;
+// }
+
+.el-button{
+    font-size: 16px;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 36px;
+}

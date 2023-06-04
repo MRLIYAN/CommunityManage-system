@@ -1,0 +1,22 @@
+/* 引入庞门正道字体 */
+@font-face { 
+  font-family: 'PangMenZhengDao';
+  src: url('../assets/fonts/PangMenZhengDao.ttf');
+  font-weight: normal; 
+  font-style: normal; 
+}
+/* 引入有舍标题黑字体 */
+@font-face {
+  font-family: 'YouSheBiaoTiHei';
+  src: url('../assets/fonts/YouSheBiaoTiHei-2.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 引入DINPro字体 tjn: 这个字体有版权就不用了 20210827 */
+// @font-face { 
+//   font-family: 'DINPro';
+//   src: url('../assets/font/DINPro-Medium.otf');
+//   font-weight: normal; 
+//   font-style: normal; 
+// }
