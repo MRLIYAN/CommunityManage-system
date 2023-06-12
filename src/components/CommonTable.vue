@@ -180,9 +180,6 @@ export default {
     width: 100%;
     margin: 0 auto;
 
-    .el-table{
-
-    }
 
     ::v-deep
         .el-table--striped

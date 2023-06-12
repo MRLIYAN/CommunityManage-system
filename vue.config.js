@@ -19,7 +19,7 @@ module.exports = {
         target: 'http://10.6.11.41:9012',
         changeOrigin: true,
         pathRewrite: {
-          '^/api': '/platform'
+          '^/api': ''
         }
       }
     }, // 设置代理
